@@ -32,6 +32,7 @@ class _SabunGevanEck extends State<SabunGevanEck> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
+          
           Align(
             alignment: Alignment.center,
             child: SizedBox(
